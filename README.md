@@ -1,5 +1,5 @@
 # HanoiTower
-##Example Outputs
+## Example Outputs
 Run 1 (Showcases the correctness of the solveHanoi() recursive
 function):
 
